@@ -5,6 +5,25 @@ But personally I prefer "Yuriy Pigovsky" or "Jurij Pigowski".
 
 ## Scala / Python Developer
 
+### Summary
+
+* I am 40 years old. I work as a software developer for the last 19 years.
+* Scala --- 7 years experience
+* Python --- 5 years experience
+* JavaScript --- 5 years experience
+* Java --- 2 years experience
+
+### Education
+
+* National University "Lviv Polytechnic"
+  - from November 2005 to October 2008
+  - Degree: PhD in technical sciences
+- Ternopil Academy of National Economy. 
+The current name of the institution is West Ukrainian National University.
+  - from September 1999 to July 2004
+  - Degree: Master in economical cybernetics
+
+  
 ### Skills / Competencies
 
 #### Programming languages and technologies(frameworks)
@@ -13,17 +32,22 @@ But personally I prefer "Yuriy Pigovsky" or "Jurij Pigowski".
   - akka http
   - Specs2, Mockito
   - Play framework
+  - sbt
 * Python
     - Django
+    - Celery
 * JS
     - jQuery
     - vue
-* Java and Kotlin
+* Java, Kotlin
     - Android SDK
+    - JUnit
+    - Gradle
 * PHP
     - Code igniter
 * Bash
 * C, C++
+  * Unix sockets
 * Go
 * i386 assembler
 * Z80 assembler ;)
@@ -39,6 +63,11 @@ But personally I prefer "Yuriy Pigovsky" or "Jurij Pigowski".
 * NoSQL
   - Cassandra
   - Redis
+
+#### Other
+
+* Kafka
+* Docker
 
 #### OS
 
@@ -56,13 +85,16 @@ But personally I prefer "Yuriy Pigovsky" or "Jurij Pigowski".
   - job title: Scala-Python developer
   - Projects:
     - BSSAPI --- Business Support Solution for Telecommunications (written on Scala)
+      - Technologies: akka, Kafka, Cassandra, MariaDB, REDIS, sbt
     - DBSS --- Digital Business Support Solution for Telecommunication (written on Python)
+      - Technologies: Django, MariaDB, Kafka, Cassandra, REDIS
 
 * ScalHive https://scalhive.com
   - from December 2016 to December 2017
   - job title: Scala developer
   - Projects:
     - CRM --- automatizing digital marketing workflow
+      - PostgreeSQL, sbt
     - GeoFence --- gathering marketing statistics
 
 * Ecodery
@@ -85,17 +117,12 @@ But personally I prefer "Yuriy Pigovsky" or "Jurij Pigowski".
     - CMS with advanced SEO features
 
 
-### Education
+#### Certificates
 
-* National University "Lviv Polytechnic"
-  - from November 2005 to October 2008
-  - Degree: PhD in technical sciences
-- Ternopil Academy of National Economy. 
-The current name of the institution is West Ukrainian National University.
-  - from September 1999 to July 2004
-  - Degree: Master in economical cybernetics
+* Coursera "Big Data Analysis with Scala and Spark" 
+https://www.coursera.org/account/accomplishments/verify/4NQPZFDZ4LNR
 
-
+  
 ### Languages
 
 * Ukrainian --- mother tongue
