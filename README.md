@@ -91,7 +91,7 @@ The current name of the institution is West Ukrainian National University.
         - Akka, Akka http, Akka Stream, 
         - Kafka, Cassandra, REDIS, 
         - Docker, Consul, Marathon, Mesos,
-        - TDD
+        - Spec, Mockito, TDD
     - DBSS --- Digital Business Support Solution for Telecommunication
       - Languages, technologies and libraries: 
         - Python 3.7,
@@ -127,6 +127,7 @@ The current name of the institution is West Ukrainian National University.
       - Technologies and libraries: 
         - Java, Kotlin, 
         - Android SDK 
+        - TDD, JUnit
     - El Chatto --- chatbot
       - Technologies and libraries: 
         - Scala 2.11, 2.12, 
@@ -139,6 +140,7 @@ The current name of the institution is West Ukrainian National University.
     - Mon Dentist --- platform to communicate dentists with their patients
       - Technologies and libraries: 
         - Java, Android SDK
+        - TDD, JUnit
 
 * freelance
   - from June 2004 to June 2014
