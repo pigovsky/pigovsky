@@ -143,6 +143,12 @@ The current name of the institution is West Ukrainian National University.
         - Java, Android SDK
         - TDD, JUnit
 
+* Writing and defending my PhD thesis along with scientific papers
+  * from September 2004 to December 2008.
+  * Pigovsky Y. R. Mathematical models of fuzzy processes in 
+    Monod-Iyerusalimskii systems and methods of their identification.
+  * https://ena.lpnu.ua/items/c882b7c6-b45d-4b1f-87ca-0a9938085e6c
+
 * freelance
   - from June 2004 to June 2014
   - job title: PHP developer
