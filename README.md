@@ -1,7 +1,13 @@
-# IURII PIGOVSKYI
+# IURII PIGOVSKYI (name in ID)
+# YURIY PIGOVSKY (preferred name)
 
-the above is a governmental latinization of my name in Ukrainian language. 
-But personally I prefer "Yuriy Pigovsky" or "Jurij Pigowski".
+Birthday 11.02.1983
+
+pigovsky@gmail.com
+
+What's app + GSM: +32479091746
+
+Belgium, Antwerp
 
 ## Scala / Python Developer
 
@@ -45,29 +51,22 @@ The current name of the institution is West Ukrainian National University.
 * C, C++
   * Unix sockets
 * Go
-* i386 assembler
-* Z80 assembler ;)
+* i386 and Z80 assembler
 
 #### DB
 
 * SQL
-  - MariaDB 
-  - H2
-  - PostgreSQL 
-  - SQLite
+  - MariaDB, H2, PostgreSQL, SQLite
 
 * NoSQL
-  - Cassandra
-  - Redis
+  - Cassandra, Redis
 
 * Event loggers and message queues
-  * Kafka
-  * RabbitMQ
+  * Kafka, RabbitMQ
 
 #### OS
 
-* Linux
-* Windows
+* Linux, Windows
 
 #### Version control system
 
