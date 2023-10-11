@@ -88,7 +88,8 @@ The current name of the institution is West Ukrainian National University.
       - Languages, technologies and libraries: 
         - Scala 2.11, 2.12, 
         - Akka, Akka http, Akka Stream, 
-        - Kafka, Cassandra, REDIS, 
+        - Kafka, RabbitMQ,
+        - Cassandra, REDIS, 
         - Docker, Consul, Marathon, Mesos,
         - Spec, Mockito, TDD
     - DBSS --- Digital Business Support Solution for Telecommunication
@@ -97,7 +98,8 @@ The current name of the institution is West Ukrainian National University.
         - Django,
         - HTML, JavaScript,
         - MariaDB, 
-        - Kafka, Cassandra, REDIS,
+        - Kafka, RabbitMQ,
+        - Cassandra, REDIS,
         - Docker, Consul, Marathon, Mesos,
         - TDD
       - Not only develop myself, but also review PRs of 
