@@ -1,6 +1,6 @@
 # IURII PIGOVSKYI
 
-the above is a governmental latinization of my name "Юрій Піговський". 
+the above is a governmental latinization of my name in Ukrainian language. 
 But personally I prefer "Yuriy Pigovsky" or "Jurij Pigowski".
 
 ## Scala / Python Developer
@@ -9,8 +9,11 @@ But personally I prefer "Yuriy Pigovsky" or "Jurij Pigowski".
 
 I am a software engineer specialized in developing distributed software 
 for the last 9 years:
+
   * Java + Scala --- 9 years experience
+
   * Python --- 5 years experience
+
 * Also, I coordinate work and review PRs
 
 ### Education
@@ -29,20 +32,13 @@ The current name of the institution is West Ukrainian National University.
 #### Programming languages and technologies(frameworks)
 
 * Scala 
-  - akka http
-  - Specs2, Mockito
-  - Play framework
-  - sbt
+  - akka http, Specs2, Mockito, Play framework, sbt
 * Python
-    - Django
-    - Celery
+    - Django, Celery
 * JS
-    - jQuery
-    - vue
+    - jQuery, vue
 * Java, Kotlin
-    - Android SDK
-    - JUnit
-    - Gradle
+    - Android SDK, JUnit, Gradle
 * PHP
     - Code igniter
 * Bash
@@ -64,10 +60,9 @@ The current name of the institution is West Ukrainian National University.
   - Cassandra
   - Redis
 
-#### Other
-
-* Kafka
-* Docker
+* Event loggers and message queues
+  * Kafka
+  * RabbitMQ
 
 #### OS
 
@@ -85,23 +80,14 @@ The current name of the institution is West Ukrainian National University.
   - job title: Scala-Python developer
   - Projects:
     - BSSAPI --- Business Support Solution for Telecommunications
-      - Languages, technologies and libraries: 
-        - Scala 2.11, 2.12, 
-        - Akka, Akka http, Akka Stream, 
-        - Kafka, RabbitMQ,
-        - Cassandra, REDIS, 
-        - Docker, Consul, Marathon, Mesos,
-        - Spec, Mockito, TDD
+      - Languages, technologies and libraries: Scala 2.11, 2.12, 
+        Akka, Akka http, Akka Stream, Kafka, RabbitMQ, Cassandra, REDIS, 
+        Docker, Consul, Marathon, Mesos,
+        Spec, Mockito, TDD
     - DBSS --- Digital Business Support Solution for Telecommunication
-      - Languages, technologies and libraries: 
-        - Python 3.7,
-        - Django,
-        - HTML, JavaScript,
-        - MariaDB, 
-        - Kafka, RabbitMQ,
-        - Cassandra, REDIS,
-        - Docker, Consul, Marathon, Mesos,
-        - TDD
+      - Languages, technologies and libraries: Python 3.7,
+        Django, HTML, JavaScript, MariaDB, Kafka, RabbitMQ,
+        Cassandra, REDIS, Docker, Consul, Marathon, Mesos, TDD
       - Not only develop myself, but also review PRs of 
         other team members, coordinate their work
 
@@ -110,38 +96,30 @@ The current name of the institution is West Ukrainian National University.
   - job title: Scala developer
   - Projects:
     - CRM --- automatizing digital marketing workflow
-      - Technologies and libraries: 
-        - Scala 2.11, 2.12,
-        - Akka, Akka http, Akka Stream, 
-        - PostgreeSQL
+      - Technologies and libraries: Scala 2.11, 2.12,
+        Akka, Akka http, Akka Stream, PostgreeSQL
     - GeoFence --- gathering marketing statistics
-      - Technologies and libraries: 
-        - Scala 2.11, 2.12, 
-        - Akka, Akka http, Akka Stream, 
-        - PostgreeSQL
+      - Technologies and libraries: Scala 2.11, 2.12, 
+        Akka, Akka http, Akka Stream, PostgreeSQL
 
 * Ecodery
   - from June 2015 to December 2016
   - job title: Java-Scala developer
   - Projects:
     - Chativity (Buzzchat) --- Android app
-      - Technologies and libraries: 
-        - Java, Kotlin, 
-        - Android SDK 
-        - TDD, JUnit
+      - Technologies and libraries: Java, Kotlin, 
+        Android SDK, TDD, JUnit
     - El Chatto --- chatbot
-      - Technologies and libraries: 
-        - Scala 2.11, 2.12, 
-        - Akka, Akka http
+      - Technologies and libraries: Scala 2.11, 2.12, 
+        Akka, Akka http
 
 * Spilna Sprava
   - from June 2014 to June 2015
   - job title: Java Android developer
   - Projects:
     - Mon Dentist --- platform to communicate dentists with their patients
-      - Technologies and libraries: 
-        - Java, Android SDK
-        - TDD, JUnit
+      - Technologies and libraries: Java, Android SDK
+        TDD, JUnit
 
 * Writing and defending my PhD thesis along with scientific papers
   * from September 2004 to December 2008.
@@ -154,14 +132,14 @@ The current name of the institution is West Ukrainian National University.
   - job title: PHP developer
   - Projects:
     - CMS with advanced SEO features
-      - Technologies and libraries: 
-        - PHP, JavaScript, 
-        - CodeIgniter
+      - Technologies and libraries: PHP, JavaScript, 
+        CodeIgniter
 
 
 #### Certificates
 
-* Coursera "Big Data Analysis with Scala and Spark" 
+* Coursera "Big Data Analysis with Scala and Spark"
+
 https://www.coursera.org/account/accomplishments/verify/4NQPZFDZ4LNR
 
   
