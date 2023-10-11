@@ -7,11 +7,10 @@ But personally I prefer "Yuriy Pigovsky" or "Jurij Pigowski".
 
 ### Summary
 
-* I am 40 years old. Date of birth is 11 February 1983. 
-* I work as a software developer for the last 19 years:
+I am a software engineer specialized in developing distributed software 
+for the last 9 years:
   * Java + Scala --- 9 years experience
   * Python --- 5 years experience
-  * JavaScript --- 5 years experience
 * Also, I coordinate work and review PRs
 
 ### Education
