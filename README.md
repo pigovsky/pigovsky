@@ -1,5 +1,5 @@
 # IURII PIGOVSKYI (name in ID)
-# YURIY PIGOVSKY (preferred name)
+# YURIY PIGOVSKY (preferred latinization of my name)
 
 Birthday 11.02.1983
 
@@ -13,21 +13,25 @@ Belgium, Antwerp
 
 ### Summary
 
-I am a software engineer specialized in developing distributed software 
-for the last 9 years:
+My overall experience in software development is 19 years. 
+The last 9 years I am specialized in developing distributed software in 
+Java(Scala) and Python:
 
   * Java + Scala --- 9 years experience
 
   * Python --- 5 years experience
 
-* Also, I coordinate work and review PRs
+* Along with developing software myself I coordinate work and review PRs.
+
+* I have experience in scientific research in the field of mathematical modelling and numeric methods.
+
 
 ### Education
 
 * National University "Lviv Polytechnic"
   - from November 2005 to October 2008
   - Degree: PhD in technical sciences
-- Ternopil Academy of National Economy. 
+* Ternopil Academy of National Economy. 
 The current name of the institution is West Ukrainian National University.
   - from September 1999 to July 2004
   - Degree: Master in economical cybernetics
