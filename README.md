@@ -9,7 +9,7 @@ What's app + GSM: +32479091746
 
 Belgium, Antwerp
 
-## Scala / Python Developer
+## Java-Scala and Python Developer
 
 ### Summary
 
