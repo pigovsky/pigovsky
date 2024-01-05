@@ -1,6 +1,6 @@
 # YURIY PIGOVSKY
 My name in the Ukrainian passport is "Юрій Піговський". 
-My name in the International passport was latinized to "IURII PIGOVSKYI" without giving me any option to chanchangege any letter.
+My name in the International passport was latinized to "IURII PIGOVSKYI" without giving me any option to change any letter.
 
 Birthday 11.02.1983
 
