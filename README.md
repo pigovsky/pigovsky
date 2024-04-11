@@ -1,8 +1,10 @@
-# YURIY PIGOVSKY
-My name in the Ukrainian passport is "Юрій Піговський". 
-My name in the International passport was latinized to "IURII PIGOVSKYI" without giving me any option to change any letter.
+# Yuriy Pigovsky
+My name in the Ukrainian passport is "Юрій Піговський".
+That should be read as "Jürij Pigowski" in German.
+My name in my International passport was latinized to "IURII PIGOVSKYI" 
+without giving me an option to change or remove any letter.
 
-Birthday 11.02.1983
+Birthday 11.02.1983, I'm 41 years old.
 
 pigovsky@gmail.com
 
@@ -31,11 +33,11 @@ Java(Scala) and Python:
 
 * National University "Lviv Polytechnic"
   - from November 2005 to October 2008
-  - Degree: PhD in technical sciences
+  - Degree: [PhD in technical sciences](https://docs.google.com/document/d/1B6Ct4EMALKTStvnoT48I23PuYWRaT6TEz3MtqxgmbAg/edit?usp=sharing)
 * Ternopil Academy of National Economy. 
 The current name of the institution is West Ukrainian National University.
   - from September 1999 to July 2004
-  - Degree: Master in economical cybernetics
+  - Degree: [Master in economical cybernetics](https://docs.google.com/document/d/1i9mHe1mbHX-v7-H0FrT0pDsdcG27H9OMuie941UbI_A/edit?usp=sharing)
 
   
 ### Skills / Competencies
@@ -138,6 +140,12 @@ The current name of the institution is West Ukrainian National University.
     - CMS with advanced SEO features
       - Technologies and libraries: PHP, JavaScript, 
         CodeIgniter
+
+
+#### Achievements
+
+I implemented prepaid and postpaid payment systems that are currently in large-scale production use by several
+large Mobile telecommunication operators in several countries.
 
 
 #### Certificates
