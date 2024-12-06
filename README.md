@@ -1,16 +1,16 @@
 # Yuriy Pigovsky
 My name in the Ukrainian passport is "Юрій Піговський".
-That should be read as "Jürij Pigowski" in German.
-My name in my International passport was latinized to "IURII PIGOVSKYI" 
+That should be read as "Juri Pigowski" in German or "Yuri Pigovsky" in English.
+My name in my international passport was latinized as "IURII PIGOVSKYI" 
 without giving me an option to change or remove any letter.
 
 Birthday 11.02.1983, I'm 41 years old.
 
 pigovsky@gmail.com
 
-What's app + GSM: +32479091746
+What's app + GSM: +491702906351
 
-Belgium, Antwerp
+Dortmund, Germany
 
 ## Java-Scala and Python Developer
 
@@ -81,8 +81,14 @@ The current name of the institution is West Ukrainian National University.
 
 ### Experience
 
+* Fachhochschule Dortmund
+  - from July 2024 till now
+  - job title: senior software developer, architector, technical writer.
+  - Project ["Emulate"](https://www.fh-dortmund.de/microsite/smartedgelab/projekte/emulate.php)
+     - Language, technologies: python, fastapi, TCP-IP sockets, opentelemetry, clickhouse db.
+
 * Qvantel https://www.qvantel.com
-  - from December 2017 till now
+  - from December 2017 till June 2024
   - job title: Scala-Python developer
   - Projects:
     - BSSAPI --- Business Support Solution for Telecommunications
