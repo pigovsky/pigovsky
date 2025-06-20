@@ -1,14 +1,14 @@
 # Yuriy Pigovsky
 My name in the Ukrainian passport is "Юрій Піговський".
-That should be read as "Juri Pigowski" in German or "Yuri Pigovsky" in English.
-My name in my international passport was latinized as "IURII PIGOVSKYI" 
-without giving me an option to change or remove any letter.
+It can be read as "Juri Pigowski" in German or "Yuri Pigovsky" in English.
+But in my international passport it was latinized as "IURII PIGOVSKYI" 
+without giving me any option to change or remove anything.
 
 Birthday 11.02.1983, I'm 42 years old.
 
 pigovsky@gmail.com
 
-What's app + GSM: +491702906351
+WhatsApp + GSM: +491702906351
 
 Dortmund, Germany
 
@@ -16,13 +16,13 @@ Dortmund, Germany
 
 ### Summary
 
-My overall experience in software development is 19 years. 
-The last 9 years I am specialized in developing distributed software in 
+My overall experience in software development is 20 years. 
+The last 10 years I am specialized in developing distributed software in 
 Java(Scala) and Python:
 
   * Java + Scala --- 9 years experience
 
-  * Python --- 5 years experience
+  * Python --- 6 years experience
 
 * Along with developing software myself I coordinate work and review PRs.
 
@@ -47,14 +47,14 @@ The current name of the institution is West Ukrainian National University.
 * Scala 
   - akka http, Specs2, Mockito, Play framework, sbt
 * Python
-    - Django, Celery
+    - FastAPI, Django, Celery
+* Java, Kotlin
+    - sockets, Android SDK, JUnit, Gradle
+* Bash
 * JS
     - jQuery, vue
-* Java, Kotlin
-    - Android SDK, JUnit, Gradle
 * PHP
     - Code igniter
-* Bash
 * C, C++
   * Unix sockets
 * Go
@@ -71,6 +71,10 @@ The current name of the institution is West Ukrainian National University.
 * Event loggers and message queues
   * Kafka, RabbitMQ
 
+#### Metrics
+
+* Open Telemetry with Signoz
+
 #### OS
 
 * Linux, Windows
@@ -83,16 +87,21 @@ The current name of the institution is West Ukrainian National University.
 
 * Fachhochschule Dortmund
   - from July 2024 till now
-  - job title: senior software developer, architector, technical writer.
+  - job title: Software developer, architector, technical writer.
   - Project ["Emulate"](https://www.fh-dortmund.de/microsite/smartedgelab/projekte/emulate.php)
-     - Language, technologies: python, fastapi, TCP-IP sockets, opentelemetry, clickhouse db.
+     - Language, technologies: 
+        * fastapi in python, 
+        * JDK, 
+        * opentelemetry with Signoz, 
+        * clickhouse db,
+        * Docker, k8s, Edge-xr.
 
 * Qvantel https://www.qvantel.com
   - from December 2017 till June 2024
   - job title: Scala-Python developer
   - Projects:
     - BSSAPI --- Business Support Solution for Telecommunications
-      - Languages, technologies and libraries: Scala 2.11, 2.12, 
+      - Languages, technologies and libraries: Scala 2.11(12), 
         Akka, Akka http, Akka Stream, Kafka, RabbitMQ, Cassandra, REDIS, 
         Docker, Consul, Marathon, Mesos,
         Spec, Mockito, TDD
@@ -165,5 +174,5 @@ https://www.coursera.org/account/accomplishments/verify/4NQPZFDZ4LNR
 
 * Ukrainian --- mother tongue
 * English --- professional level (I use it in my daily work)
-* Dutch --- understand basic speech, can speak and read a bit --- currently learning
-* German --- understand basic speech, can say elementary things --- currently learning
+* German --- I understand people, people understand me, but it is still not easy to express all I want to say... ;) --- [currently learning](https://www.duolingo.com/profile/YuriyPigov?via=share_profile_link) 
+* Dutch --- understand basic speech, can speak and read a bit
