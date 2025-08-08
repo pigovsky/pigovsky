@@ -12,11 +12,12 @@ WhatsApp + GSM: +491702906351
 
 Dortmund, Germany
 
+
 ## Java-Scala and Python Developer
 
 ### Summary
 
-My overall experience in software development is 20 years. 
+I started my software develpment career in 2005. So my overall experience in software development is 20 years. 
 The last 10 years I am specialized in developing distributed software in 
 Java(Scala) and Python:
 
@@ -26,7 +27,7 @@ Java(Scala) and Python:
 
 * Along with developing software myself I coordinate work and review PRs.
 
-* I have experience in scientific research in the field of mathematical modelling and numeric methods.
+* I have experience in scientific research in the field of mathematical modelling and numeric methods, machine learning.
 
 
 ### Education
@@ -83,15 +84,15 @@ The current name of the institution is West Ukrainian National University.
 
 * git
 
+
 ### Experience
 
 * Fachhochschule Dortmund
   - from July 2024 till now
-  - job title: Software developer, architector, technical writer.
+  - job title: Software developer, software architector.
   - Project ["Emulate"](https://www.fh-dortmund.de/microsite/smartedgelab/projekte/emulate.php)
      - Language, technologies: 
         * fastapi in python, 
-        * JDK, 
         * opentelemetry with Signoz, 
         * clickhouse db,
         * Docker, k8s, Edge-xr.
@@ -168,6 +169,10 @@ large Mobile telecommunication operators in several countries.
 * Coursera "Big Data Analysis with Scala and Spark"
 
 https://www.coursera.org/account/accomplishments/verify/4NQPZFDZ4LNR
+
+* Supervised Machine Learning: Regression and Classification
+
+https://www.coursera.org/account/accomplishments/verify/14FNGP17UOHV
 
   
 ### Languages
