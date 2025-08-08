@@ -17,13 +17,12 @@ Dortmund, Germany
 
 ### Summary
 
-I started my software develpment career in 2005. So my overall experience in software development is 20 years. 
-The last 10 years I am specialized in developing distributed software in 
-Java(Scala) and Python:
+I started my software develpment career in 2004. So my overall experience in software development is 21 years. 
+From 2015, the last 10 years, I am specialized in developing distributed software in Java(Scala) and Python:
 
-  * Java + Scala --- 9 years experience
+  * Java + Scala --- 10 years experience
 
-  * Python --- 6 years experience
+  * Python --- 7 years experience
 
 * Along with developing software myself I coordinate work and review PRs.
 
