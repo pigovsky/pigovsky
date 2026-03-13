@@ -1,10 +1,10 @@
 # Yuriy Pigovsky
 My name in the Ukrainian passport is "Юрій Піговський".
-It can be read as "Juri Pigowski" in German or "Yuri Pigovsky" in English.
+It can be read as "Juri Pigowski" in German or "Yuriy Pigovsky" in English.
 But in my international passport it was latinized as "IURII PIGOVSKYI" 
 without giving me any option to change or remove anything.
 
-Birthday 11.02.1983, I'm 42 years old.
+Birthday 11.02.1983, I'm 43 years old.
 
 pigovsky@gmail.com
 
@@ -20,9 +20,9 @@ Dortmund, Germany
 I started my software develpment career in 2004. So my overall experience in software development is 21 years. 
 From 2015, the last 10 years, I am specialized in developing distributed software in Java(Scala) and Python:
 
-  * Java + Scala --- 10 years experience
+  * Java + Scala --- 11 years experience
 
-  * Python --- 7 years experience
+  * Python --- 8 years experience
 
 * Along with developing software myself I coordinate work and review PRs.
 
@@ -93,8 +93,8 @@ The current name of the institution is West Ukrainian National University.
      - Language, technologies: 
         * fastapi in python, 
         * opentelemetry with Signoz, 
-        * clickhouse db,
-        * Docker, k8s, Edge-xr.
+        * clickhouse db, redis, rabbit mq,
+        * Docker, k8s.
 
 * Qvantel https://www.qvantel.com
   - from December 2017 till June 2024
@@ -159,19 +159,18 @@ The current name of the institution is West Ukrainian National University.
 
 #### Achievements
 
-I implemented prepaid and postpaid payment systems that are currently in large-scale production use by several
+I implemented and took part in designing prepaid and postpaid payment systems that are currently in large-scale production use by several
 large Mobile telecommunication operators in several countries.
 
 
 #### Certificates
 
 * Coursera "Big Data Analysis with Scala and Spark"
-
 https://www.coursera.org/account/accomplishments/verify/4NQPZFDZ4LNR
 
 * Supervised Machine Learning: Regression and Classification
-
 https://www.coursera.org/account/accomplishments/verify/14FNGP17UOHV
+
 
   
 ### Languages
