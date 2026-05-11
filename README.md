@@ -1,8 +1,4 @@
-# Yuriy Pigovsky
-My name in the Ukrainian passport is "Юрій Піговський".
-It can be read as "Juri Pigowski" in German or "Yuriy Pigovsky" in English.
-But in my international passport it was latinized as "IURII PIGOVSKYI" 
-without giving me any option to change or remove anything.
+# Yuriy Pigovsky (or IURII PIGOVSKYI in the passport)
 
 Birthday 11.02.1983, I'm 43 years old.
 
@@ -13,16 +9,16 @@ WhatsApp + GSM: +491702906351
 Dortmund, Germany
 
 
-## Java-Scala and Python Developer
+## Java-Scala and Python Software Developer, Software Architect
 
 ### Summary
 
-I started my software develpment career in 2004. So my overall experience in software development is 21 years. 
-From 2015, the last 10 years, I am specialized in developing distributed software in Java(Scala) and Python:
+I started my software development career in 2004. So my overall experience in software development is 22 years. 
+From 2015, the last 11 years, I am specialized in developing distributed software in Java(Scala) and Python:
 
-  * Java + Scala --- 11 years experience
+  * Java + Scala --- 12 years experience
 
-  * Python --- 8 years experience
+  * Python --- 9 years experience
 
 * Along with developing software myself I coordinate work and review PRs.
 
@@ -33,9 +29,9 @@ From 2015, the last 10 years, I am specialized in developing distributed softwar
 
 * National University "Lviv Polytechnic"
   - from November 2005 to October 2008
-  - Degree: [PhD in technical sciences](https://docs.google.com/document/d/1B6Ct4EMALKTStvnoT48I23PuYWRaT6TEz3MtqxgmbAg/edit?usp=sharing)
-* Ternopil Academy of National Economy. 
-The current name of the institution is West Ukrainian National University.
+  - Degree: PhD in technical sciences
+
+* West Ukrainian National University (Ternopil Academy of National Economy at that time).
   - from September 1999 to July 2004
   - Degree: [Master in economical cybernetics](https://docs.google.com/document/d/1i9mHe1mbHX-v7-H0FrT0pDsdcG27H9OMuie941UbI_A/edit?usp=sharing)
 
@@ -51,14 +47,6 @@ The current name of the institution is West Ukrainian National University.
 * Java, Kotlin
     - sockets, Android SDK, JUnit, Gradle
 * Bash
-* JS
-    - jQuery, vue
-* PHP
-    - Code igniter
-* C, C++
-  * Unix sockets
-* Go
-* i386 and Z80 assembler
 
 #### DB
 
@@ -71,13 +59,15 @@ The current name of the institution is West Ukrainian National University.
 * Event loggers and message queues
   * Kafka, RabbitMQ
 
+
 #### Metrics
 
 * Open Telemetry with Signoz
 
 #### OS
 
-* Linux, Windows
+* Linux
+* Windows
 
 #### Version control system
 
@@ -88,10 +78,10 @@ The current name of the institution is West Ukrainian National University.
 
 * Fachhochschule Dortmund
   - from July 2024 till now
-  - job title: Software developer, software architector.
+  - job title: Scientific coworker, Software developer, Software architector.
   - Project ["Emulate"](https://www.fh-dortmund.de/microsite/smartedgelab/projekte/emulate.php)
      - Language, technologies: 
-        * fastapi in python, 
+        * python (fastapi), 
         * opentelemetry with Signoz, 
         * clickhouse db, redis, rabbit mq,
         * Docker, k8s.
@@ -159,23 +149,24 @@ The current name of the institution is West Ukrainian National University.
 
 #### Achievements
 
-I implemented and took part in designing prepaid and postpaid payment systems that are currently in large-scale production use by several
+I implemented and took part in designing prepaid and postpaid payment systems that are currently in large-scale 
+production use by several
 large Mobile telecommunication operators in several countries.
+
+I integrated Message Manager on two Mobile telecommunication operators.
 
 
 #### Certificates
 
-* Coursera "Big Data Analysis with Scala and Spark"
-https://www.coursera.org/account/accomplishments/verify/4NQPZFDZ4LNR
-
-* Supervised Machine Learning: Regression and Classification
-https://www.coursera.org/account/accomplishments/verify/14FNGP17UOHV
-
-
+* [Unsupervised Learning, Recommenders, Reinforcement Learning](https://coursera.org/share/2ebc59f06b3331339859133d6571aafa)
+* [Advanced Learning Algorithms](https://coursera.org/share/5bd5fb3081e2dc3503a12073b73c5bee)
+* [Supervised Machine Learning: Regression and Classification](https://coursera.org/share/1449f4013aaff33a5da5d8b459521d4d)
+* [Big Data Analysis with Scala and Spark](https://coursera.org/share/15d40eb8e6f00ecbb3d0141bada2779e)
   
+
 ### Languages
 
 * Ukrainian --- mother tongue
-* English --- professional level (I use it in my daily work)
-* German --- I understand people, people understand me, but it is still not easy to express all I want to say... ;) --- [currently learning](https://www.duolingo.com/profile/YuriyPigov?via=share_profile_link) 
+* English --- better than my German ;)
+* German --- B1 
 * Dutch --- understand basic speech, can speak and read a bit
