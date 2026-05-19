@@ -1,4 +1,4 @@
-# Yuriy Pigovsky (or IURII PIGOVSKYI in the passport)
+# IURII PIGOVSKYI (Yuriy Pigovsky)
 
 Birthday 11.02.1983, I'm 43 years old.
 
@@ -14,13 +14,13 @@ Dortmund, Germany
 ### Summary
 
 I started my software development career in 2004. So my overall experience in software development is 22 years. 
-From 2015, the last 11 years, I am specialized in developing distributed software in Java(Scala) and Python:
+From 2015, the last 11 years, I am specialized in designing and developing distributed software in Java(Scala) and Python:
 
   * Java + Scala --- 12 years experience
 
   * Python --- 9 years experience
 
-* Along with developing software myself I coordinate work and review PRs.
+* Along with designing and developing software myself I coordinate work and review PRs.
 
 * I have experience in scientific research in the field of mathematical modelling and numeric methods, machine learning.
 
@@ -33,7 +33,7 @@ From 2015, the last 11 years, I am specialized in developing distributed softwar
 
 * West Ukrainian National University (Ternopil Academy of National Economy at that time).
   - from September 1999 to July 2004
-  - Degree: [Master in economical cybernetics](https://docs.google.com/document/d/1i9mHe1mbHX-v7-H0FrT0pDsdcG27H9OMuie941UbI_A/edit?usp=sharing)
+  - Degree: Master in economical cybernetics
 
   
 ### Skills / Competencies
@@ -62,7 +62,8 @@ From 2015, the last 11 years, I am specialized in developing distributed softwar
 
 #### Metrics
 
-* Open Telemetry with Signoz
+* Open Telemetry
+* Prometheus
 
 #### OS
 
@@ -74,15 +75,21 @@ From 2015, the last 11 years, I am specialized in developing distributed softwar
 * git
 
 
+#### Deployment
+
+* Docker
+* k8s
+
+
 ### Experience
 
 * Fachhochschule Dortmund
   - from July 2024 till now
-  - job title: Scientific coworker, Software developer, Software architector.
+  - job title: Scientific coworker, Software architector, developer.
   - Project ["Emulate"](https://www.fh-dortmund.de/microsite/smartedgelab/projekte/emulate.php)
      - Language, technologies: 
         * python (fastapi), 
-        * opentelemetry with Signoz, 
+        * opentelemetry, 
         * clickhouse db, redis, rabbit mq,
         * Docker, k8s.
 
@@ -149,11 +156,17 @@ From 2015, the last 11 years, I am specialized in developing distributed softwar
 
 #### Achievements
 
-I implemented and took part in designing prepaid and postpaid payment systems that are currently in large-scale 
+I took part in designing and implemented prepaid and postpaid payment systems that are currently in large-scale 
 production use by several
 large Mobile telecommunication operators in several countries.
 
-I integrated Message Manager on two Mobile telecommunication operators.
+I integrated Message Manager on two large mobile telecommunication operators.
+
+My experience in both DBSS (python-based) and BSSAPI (scala-based) helped a lot
+in solving communication gaps between them.
+
+I implemented a k8s cluster monitor and recommender that improves the quality of service 
+for mission-critical applications.
 
 
 #### Certificates
@@ -167,6 +180,6 @@ I integrated Message Manager on two Mobile telecommunication operators.
 ### Languages
 
 * Ukrainian --- mother tongue
-* English --- better than my German ;)
-* German --- B1 
+* English --- I use it in my everyday work
+* German --- B1 (Inlingua) 
 * Dutch --- understand basic speech, can speak and read a bit
