@@ -91,7 +91,8 @@ From 2015, the last 11 years, I am specialized in designing and developing distr
         * python (fastapi), 
         * opentelemetry, 
         * clickhouse db, redis, rabbit mq,
-        * Docker, k8s.
+        * Docker, k8s,
+        * Claude Code Multiagent Development
 
 * Qvantel https://www.qvantel.com
   - from December 2017 till June 2024
@@ -180,6 +181,6 @@ for mission-critical applications.
 ### Languages
 
 * Ukrainian --- mother tongue
-* English --- I use it in my everyday work
-* German --- B1 (Inlingua) 
+* English --- I use it in my daily work
+* German --- [B1](https://results.telc.net/vb?credential=telc-LcFTx7e)
 * Dutch --- understand basic speech, can speak and read a bit
