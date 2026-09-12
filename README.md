@@ -90,6 +90,7 @@ From 2015, the last 11 years, I am specialized in designing and developing distr
   - MetaProject ["Emulate"](https://www.fh-dortmund.de/microsite/smartedgelab/projekte/emulate.php)
      - Projects:
        - https://facemap-de.xyz/ --- a new-generation ;) socnet
+       - SeQaM --- a service quality management platform to ensure minimal e2e latency
        - https://greenshift-registry.online/ --- cool k8s energy-attribution platform; the webpage does not work during german holidays :D
      - Language, technologies: 
         * python (fastapi), 
