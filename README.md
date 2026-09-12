@@ -79,6 +79,7 @@ From 2015, the last 11 years, I am specialized in designing and developing distr
 
 * Docker
 * k8s
+* GCP, GKE
 
 
 ### Experience
@@ -86,7 +87,10 @@ From 2015, the last 11 years, I am specialized in designing and developing distr
 * Fachhochschule Dortmund
   - from July 2024 till now
   - job title: Scientific coworker, Software architector-developer.
-  - Project ["Emulate"](https://www.fh-dortmund.de/microsite/smartedgelab/projekte/emulate.php)
+  - MetaProject ["Emulate"](https://www.fh-dortmund.de/microsite/smartedgelab/projekte/emulate.php)
+     - Projects:
+       - https://facemap-de.xyz/ --- a new-generation ;) socnet
+       - https://greenshift-registry.online/ --- cool k8s energy-attribution platform; the webpage does not work during german holidays :D
      - Language, technologies: 
         * python (fastapi), 
         * opentelemetry, 
