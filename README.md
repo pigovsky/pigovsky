@@ -41,7 +41,7 @@ From 2015, the last 11 years, I am specialized in designing and developing distr
 #### Programming languages and technologies(frameworks)
 
 * Scala 
-  - akka http, Specs2, Mockito, Play framework, sbt
+  - akka http (pekko), Specs2, Mockito, Play framework, sbt
 * Python
     - FastAPI, Django, Celery
 * Java, Kotlin
@@ -85,14 +85,14 @@ From 2015, the last 11 years, I am specialized in designing and developing distr
 
 * Fachhochschule Dortmund
   - from July 2024 till now
-  - job title: Scientific coworker, Software architector, developer.
+  - job title: Scientific coworker, Software architector-developer.
   - Project ["Emulate"](https://www.fh-dortmund.de/microsite/smartedgelab/projekte/emulate.php)
      - Language, technologies: 
         * python (fastapi), 
         * opentelemetry, 
         * clickhouse db, redis, rabbit mq,
-        * Docker, k8s,
-        * Claude Code Multiagent Development
+        * kvm, Docker, k8s, helm,
+        * Claude code multiagent development
 
 * Qvantel https://www.qvantel.com
   - from December 2017 till June 2024
@@ -109,6 +109,8 @@ From 2015, the last 11 years, I am specialized in designing and developing distr
         Cassandra, REDIS, Docker, Consul, Marathon, Mesos, TDD
       - Not only develop myself, but also review PRs of 
         other team members, coordinate their work
+    - Services and scripts supporting Message manager
+    - bssapi-v1-to-v0-adapter --- a microservice converting BSSAPI protocol versions
 
 * ScalHive https://scalhive.com
   - from December 2016 to December 2017
@@ -154,6 +156,11 @@ From 2015, the last 11 years, I am specialized in designing and developing distr
       - Technologies and libraries: PHP, JavaScript, 
         CodeIgniter
 
+* West Ukrainian National University (Ternopil Academy of National Economy at that time)
+  - from September 2004 to December 2017
+  - job title: Senior lecturer
+  - Subjects: Operating systems, Java Technology
+
 
 #### Achievements
 
@@ -161,10 +168,9 @@ I took part in designing and implemented prepaid and postpaid payment systems th
 production use by several
 large Mobile telecommunication operators in several countries.
 
-I integrated Message Manager on two large mobile telecommunication operators.
+I integrated Message Manager on two large mobile telecommunication operators and wrote a lot of supporting scripts for them.
 
-My experience in both DBSS (python-based) and BSSAPI (scala-based) helped a lot
-in solving communication gaps between them.
+My experience in both DBSS (python-based) and BSSAPI (scala-based) helped a lot in developing new features.
 
 I implemented a k8s cluster monitor and recommender that improves the quality of service 
 for mission-critical applications.
@@ -184,3 +190,4 @@ for mission-critical applications.
 * English --- I use it in my daily work
 * German --- [B1](https://results.telc.net/vb?credential=telc-LcFTx7e)
 * Dutch --- understand basic speech, can speak and read a bit
+
