@@ -1,2 +1,5 @@
 .idea/
 *.pdf
+*.aux
+*.log
+*.out

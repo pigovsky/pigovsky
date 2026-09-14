@@ -1,179 +1,146 @@
-# IURII PIGOVSKYI (Yuriy Pigovsky)
+---
+lang: de-DE
+mainfont: "DejaVu Sans"
+fontsize: 10pt
+geometry: "a4paper,top=1.8cm,bottom=1.8cm,left=2cm,right=2cm"
+colorlinks: true
+linkcolor: blue
+urlcolor: blue
+header-includes: |
+  ```{=latex}
+  \usepackage{titlesec}
+  \usepackage{enumitem}
+  \usepackage{xcolor}
+  \definecolor{navy}{RGB}{26,42,77}
+  \definecolor{darkgray}{RGB}{90,90,90}
+  \titleformat{\section}{\normalfont\large\bfseries\color{navy}}{}{0pt}{}[{\color{navy}\titlerule[1pt]}]
+  \titlespacing*{\section}{0pt}{12pt}{6pt}
+  \setlist[itemize]{topsep=2pt,itemsep=2pt,parsep=0pt,leftmargin=1.1em}
+  \setlength{\parindent}{0pt}
+  \setlength{\parskip}{3pt plus 1pt minus 1pt}
+  ```
+---
 
-Geburtsdatum: 11.02.1983 (43 Jahre alt)
+# Iurii Pigovskyi
 
-pigovsky@gmail.com
+*(Yuriy Pigovsky)*
 
-WhatsApp + GSM: +491702906351
+**Java-Scala- und Python-Softwareentwickler, Softwarearchitekt**
 
-Dortmund, Deutschland
+Dortmund, Deutschland | geb. 11.02.1983 (43 Jahre)\
+[pigovsky@gmail.com](mailto:pigovsky@gmail.com) | WhatsApp / Mobil: +49 170 2906351\
+Verfügbar für: unbefristete Festanstellung in Dortmund / Hybrid / Remote\
+Aufenthalts-/Arbeitsstatus: Blaue Karte EU (Blue Card)
 
+# Zusammenfassung
 
-## Java-Scala und Python Softwareentwickler, Softwarearchitekt
+Seit 2004 in der Softwareentwicklung tätig – insgesamt 22 Jahre Erfahrung. Seit 2015 (11 Jahre) spezialisiert auf Entwurf und Entwicklung verteilter Systeme in Java/Scala und Python:
 
-### Zusammenfassung
+- Java + Scala – 12 Jahre Erfahrung
+- Python – 9 Jahre Erfahrung
+- Neben eigener Entwicklung: Koordination der Teamarbeit und Durchführung von Code-Reviews (PRs).
+- Erfahrung in wissenschaftlicher Forschung: mathematische Modellierung, numerische Methoden, maschinelles Lernen.
 
-Ich habe meine Karriere in der Softwareentwicklung im Jahr 2004 begonnen. Meine Gesamterfahrung in der Softwareentwicklung beträgt somit 22 Jahre.
-Seit 2015, in den letzten 11 Jahren, habe ich mich auf den Entwurf und die Entwicklung verteilter Software in Java (Scala) und Python spezialisiert:
+# Ausbildung
 
-  * Java + Scala --- 12 Jahre Erfahrung
+**Nationale Universität "Lviv Polytechnic"** — 11/2005 – 10/2008\
+*Promotion (PhD) in technischen Wissenschaften*
 
-  * Python --- 9 Jahre Erfahrung
+**Westukrainische Nationale Universität** (ehem. Ternopil Academy of National Economy) — 09/1999 – 07/2004\
+*Master in Wirtschaftskybernetik*
 
-* Neben dem Entwurf und der Eigenentwicklung von Software koordiniere ich die Arbeit und führe PR-Reviews durch.
+# Fähigkeiten / Kompetenzen
 
-* Ich verfüge über Erfahrung in der wissenschaftlichen Forschung im Bereich der mathematischen Modellierung, numerischer Methoden und des maschinellen Lernens.
+**Programmiersprachen & Technologien:** Scala (Akka HTTP/Pekko, Specs2, Mockito, Play Framework, sbt); Python (FastAPI, Django, Celery); Java, Kotlin (Sockets, Android SDK, JUnit, Gradle); Bash
 
+**Datenbanken:** SQL – MariaDB, H2, PostgreSQL, SQLite; NoSQL – Cassandra, Redis; Event-Logging & Message Queues – Kafka, RabbitMQ
 
-### Ausbildung
+**Metriken:** OpenTelemetry, Prometheus
 
-* Nationale Universität "Lviv Polytechnic"
-  - November 2005 bis Oktober 2008
-  - Abschluss: Dr. techn. (PhD in technischen Wissenschaften)
+**Betriebssysteme:** Linux, Windows
 
-* Westukrainische Nationale Universität (damals Ternopil Academy of National Economy)
-  - September 1999 bis Juli 2004
-  - Abschluss: Master in ökonomischer Kybernetik
+**Versionsverwaltung:** Git (fundierte Kenntnisse)
 
-  
-### Fähigkeiten / Kompetenzen
+**Deployment:** Docker, Kubernetes (k8s), GCP, GKE
 
-#### Programmiersprachen und Technologien (Frameworks)
+# Berufserfahrung
 
-* Scala 
-  - Akka HTTP, Specs2, Mockito, Play Framework, sbt
-* Python
-  - FastAPI, Django, Celery
-* Java, Kotlin
-  - Sockets, Android SDK, JUnit, Gradle
-* Bash
+**Fachhochschule Dortmund** — 07/2024 – heute\
+*Wissenschaftlicher Mitarbeiter, Senior Softwarearchitekt & Distributed Systems Engineer*
 
-#### Datenbanken (DB)
+- [Metaprojekt "Emulate"](https://www.fh-dortmund.de/microsite/smartedgelab/projekte/emulate.php)
+- [facemap-de.xyz](https://facemap-de.xyz/) – soziales Netzwerk
+- SeQaM – Service-Quality-Management-Plattform zur Sicherstellung minimaler Ende-zu-Ende-Latenz
 
-* SQL
-  - MariaDB, H2, PostgreSQL, SQLite
+Technologien: Python (FastAPI), OpenTelemetry, ClickHouse DB, Redis, RabbitMQ, KVM, Docker, k8s, Helm, Multiagentenentwicklung
 
-* NoSQL
-  - Cassandra, Redis
+**[Qvantel](https://www.qvantel.com)** — 12/2017 – 06/2024\
+*Senior Scala-/Python-Entwickler*
 
-* Event-Logger und Message Queues
-  - Kafka, RabbitMQ
+- BSSAPI – Business Support Solution für Telekommunikation (Scala, Akka, TDD)
+- DBSS – Digital Business Support Solution für Telekommunikation (Python, Django); zusätzlich PR-Reviews und Koordination des Teams
+- Services und Skripte zur Unterstützung des Message Manager
+- bssapi-v1-to-v0-adapter – Microservice zur Konvertierung von BSSAPI-Protokollversionen
 
+Technologien: Scala 2.11/2.12, Akka, Akka HTTP, Akka Stream, Python 3.7, Django, Kafka, RabbitMQ, Cassandra, Redis, MariaDB, Docker, Consul, Marathon, Mesos, TDD
 
-#### Metriken
+**[ScalHive](https://scalhive.com)** — 12/2016 – 12/2017\
+*Scala-Entwickler*
 
-* OpenTelemetry
-* Prometheus
+- CRM – Automatisierung von Digital-Marketing-Workflows
+- GeoFence – Erfassung von Marketingstatistiken
 
-#### Betriebssysteme (OS)
+Technologien: Scala 2.11/2.12, Akka, Akka HTTP, Akka Stream, PostgreSQL
 
-* Linux
-* Windows
+**Ecodery** — 06/2015 – 12/2016\
+*Java-Scala-Entwickler*
 
-#### Versionsverwaltung
+- Chativity (Buzzchat) – Android-App
+- El Chatto – Chatbot
 
-* git
+Technologien: Java, Kotlin, Android SDK, JUnit, TDD, Scala, Akka, Akka HTTP
 
+**Spilna Sprava** — 06/2014 – 06/2015\
+*Java-Android-Entwickler*
 
-#### Deployment
+- Mon Dentist – Plattform zur Kommunikation zwischen Zahnärzten und Patienten
 
-* Docker
-* k8s
+Technologien: Java, Android SDK, JUnit, TDD
 
+**Wissenschaftliche Arbeit** — 09/2004 – 12/2008\
+*Verfassen und Verteidigung der Dissertation sowie wissenschaftlicher Publikationen*
 
-### Berufserfahrung
+- [„Mathematical models of fuzzy processes in Monod-Iyerusalimskii systems and methods of their identification"](https://ena.lpnu.ua/items/c882b7c6-b45d-4b1f-87ca-0a9938085e6c)
 
-* Fachhochschule Dortmund
-  - Juli 2024 bis heute
-  - Position: Wissenschaftlicher Mitarbeiter, Softwarearchitekt, Entwickler
-  - Projekt ["Emulate"](https://www.fh-dortmund.de/microsite/smartedgelab/projekte/emulate.php)
-     - Sprachen, Technologien: 
-        * Python (FastAPI), 
-        * OpenTelemetry, 
-        * ClickHouse DB, Redis, RabbitMQ,
-        * Docker, k8s
+**Freelance** — 06/2004 – 06/2014\
+*PHP-Entwickler*
 
-* Qvantel https://www.qvantel.com
-  - Dezember 2017 bis Juni 2024
-  - Position: Scala-Python Entwickler
-  - Projekte:
-    - BSSAPI --- Business Support Solution für Telekommunikation
-      - Sprachen, Technologien und Bibliotheken: Scala 2.11(12), 
-        Akka, Akka HTTP, Akka Stream, Kafka, RabbitMQ, Cassandra, REDIS, 
-        Docker, Consul, Marathon, Mesos,
-        Spec, Mockito, TDD
-    - DBSS --- Digital Business Support Solution für Telekommunikation
-      - Sprachen, Technologien und Bibliotheken: Python 3.7,
-        Django, HTML, JavaScript, MariaDB, Kafka, RabbitMQ,
-        Cassandra, REDIS, Docker, Consul, Marathon, Mesos, TDD
-      - Neben der Eigenentwicklung auch Review von PRs anderer Teammitglieder und Koordination deren Arbeit
+- CMS mit erweiterten SEO-Funktionen
 
-* ScalHive https://scalhive.com
-  - Dezember 2016 bis Dezember 2017
-  - Position: Scala Entwickler
-  - Projekte:
-    - CRM --- Automatisierung von Digital-Marketing-Workflows
-      - Technologien und Bibliotheken: Scala 2.11, 2.12,
-        Akka, Akka HTTP, Akka Stream, PostgreSQL
-    - GeoFence --- Erfassung von Marketingstatistiken
-      - Technologien und Bibliotheken: Scala 2.11, 2.12, 
-        Akka, Akka HTTP, Akka Stream, PostgreSQL
+Technologien: PHP, JavaScript, CodeIgniter
 
-* Ecodery
-  - Juni 2015 bis Dezember 2016
-  - Position: Java-Scala Entwickler
-  - Projekte:
-    - Chativity (Buzzchat) --- Android App
-      - Technologien und Bibliotheken: Java, Kotlin, 
-        Android SDK, TDD, JUnit
-    - El Chatto --- Chatbot
-      - Technologien und Bibliotheken: Scala 2.11, 2.12, 
-        Akka, Akka HTTP
+**Westukrainische Nationale Universität** — 09/2004 – 12/2017\
+*Dozent (Senior Lecturer)*
 
-* Spilna Sprava
-  - Juni 2014 bis Juni 2015
-  - Position: Java Android Entwickler
-  - Projekte:
-    - Mon Dentist --- Plattform zur Kommunikation zwischen Zahnärzten und Patienten
-      - Technologien und Bibliotheken: Java, Android SDK,
-        TDD, JUnit
+Fächer: Betriebssysteme, Java-Technologie
 
-* Verfassen und Verteidigen meiner Dissertation sowie wissenschaftlicher Publikationen
-  * September 2004 bis Dezember 2008
-  * Pigovsky Y. R. "Mathematical models of fuzzy processes in Monod-Iyerusalimskii systems and methods of their identification."
-  * https://ena.lpnu.ua/items/c882b7c6-b45d-4b1f-87ca-0a9938085e6c
+# Erfolge
 
-* Freelance
-  - Juni 2004 bis Juni 2014
-  - Position: PHP Entwickler
-  - Projekte:
-    - CMS mit fortgeschrittenen SEO-Funktionen
-      - Technologien und Bibliotheken: PHP, JavaScript, 
-        CodeIgniter
+- Mitwirkung am Entwurf und der Implementierung von Prepaid- und Postpaid-Zahlungssystemen, die aktuell im großflächigen produktiven Einsatz bei mehreren großen Mobilfunkbetreibern in verschiedenen Ländern stehen.
+- Integration des Message Manager bei zwei großen Mobilfunkbetreibern inklusive zahlreicher unterstützender Skripte.
+- Erfahrung sowohl mit DBSS (Python) als auch mit BSSAPI (Scala) war maßgeblich für die Entwicklung neuer Features hilfreich.
+- Implementierung eines k8s-Cluster-Monitors und -Recommenders zur Verbesserung der Servicequalität für geschäftskritische Anwendungen.
 
+# Zertifikate
 
-#### Erfolge
+- [Unsupervised Learning, Recommenders, Reinforcement Learning](https://coursera.org/share/2ebc59f06b3331339859133d6571aafa)
+- [Advanced Learning Algorithms](https://coursera.org/share/5bd5fb3081e2dc3503a12073b73c5bee)
+- [Supervised Machine Learning: Regression and Classification](https://coursera.org/share/1449f4013aaff33a5da5d8b459521d4d)
+- [Big Data Analysis with Scala and Spark](https://coursera.org/share/15d40eb8e6f00ecbb3d0141bada2779e)
 
-Ich war am Entwurf und der Implementierung von Prepaid- und Postpaid-Zahlungssystemen beteiligt, die derzeit bei mehreren großen Mobilfunkbetreibern in verschiedenen Ländern im produktiven Großeinsatz sind.
+# Sprachen
 
-Ich habe den Message Manager bei zwei großen Mobilfunkbetreibern integriert.
-
-Meine Erfahrung sowohl mit DBSS (Python-basiert) als auch mit BSSAPI (Scala-basiert) half maßgeblich dabei, Kommunikationslücken zwischen diesen Systemen zu schließen.
-
-Ich habe einen k8s-Cluster-Monitor und Recommender implementiert, der die Servicequalität für geschäftskritische Anwendungen verbessert.
-
-
-#### Zertifikate
-
-* [Unsupervised Learning, Recommenders, Reinforcement Learning](https://coursera.org/share/2ebc59f06b3331339859133d6571aafa)
-* [Advanced Learning Algorithms](https://coursera.org/share/5bd5fb3081e2dc3503a12073b73c5bee)
-* [Supervised Machine Learning: Regression and Classification](https://coursera.org/share/1449f4013aaff33a5da5d8b459521d4d)
-* [Big Data Analysis with Scala and Spark](https://coursera.org/share/15d40eb8e6f00ecbb3d0141bada2779e)
-  
-
-### Sprachen
-
-* Ukrainisch --- Muttersprache
-* Englisch --- Täglicher Einsatz im Beruf
-* Deutsch --- B1 (Inlingua) 
-* Niederländisch --- Grundkenntnisse im Verstehen, Sprechen und Lesen
+- Ukrainisch – Muttersprache
+- Englisch – tägliche Arbeitssprache
+- [Deutsch – B1 (telc-Zertifikat)](https://results.telc.net/vb?credential=telc-LcFTx7e)
+- Niederländisch – Grundkenntnisse in Verstehen, Sprechen und Lesen

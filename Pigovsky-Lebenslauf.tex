@@ -1,0 +1,197 @@
+\documentclass[10pt,a4paper]{article}
+
+% ---------- fonts & language ----------
+\usepackage{fontspec}
+\setmainfont{DejaVu Sans}
+\usepackage{polyglossia}
+\setmainlanguage{german}
+\usepackage{microtype}
+
+% ---------- layout ----------
+\usepackage[a4paper,top=1.6cm,bottom=1.6cm,left=1.9cm,right=1.9cm]{geometry}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{1pt}
+\pagestyle{empty}
+
+% ---------- color & boxes ----------
+\usepackage[table]{xcolor}
+\definecolor{navy}{RGB}{23,41,79}
+\definecolor{navyfaint}{RGB}{224,229,238}
+\definecolor{gray1}{RGB}{95,95,95}
+\definecolor{gray2}{RGB}{243,243,244}
+\usepackage[skins]{tcolorbox}
+
+% ---------- tables & lists ----------
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{enumitem}
+\setlist[itemize]{topsep=0.8pt,itemsep=0.8pt,parsep=0pt,leftmargin=1.15em,label=\textcolor{navy}{\textbullet}}
+
+% ---------- section headings ----------
+\usepackage{titlesec}
+\titleformat{\section}
+  {\normalfont\Large\bfseries\color{navy}}{}{0pt}{}
+  [{\color{navy}\titlerule[1.1pt]}]
+\titlespacing*{\section}{0pt}{8pt}{5pt}
+
+% ---------- links ----------
+\usepackage{hyperref}
+\hypersetup{
+  colorlinks=true, linkcolor=navy, urlcolor=navy, citecolor=navy,
+  pdftitle={Lebenslauf Iurii Pigovskyi}, pdfauthor={Iurii Pigovskyi}
+}
+\urlstyle{same}
+
+% ---------- helper macros ----------
+% \entryrow{Name (bold, may contain \href)}{Dates}
+\newcommand{\entryrow}[2]{%
+  \noindent\begin{tabularx}{\linewidth}{@{}X@{\hspace{8pt}}r@{}}
+  \textbf{#1} & \colorbox{navyfaint}{\footnotesize\textcolor{navy}{\,#2\,}}\\
+  \end{tabularx}%
+}
+% \role{Job title / degree, italic gray}
+\newcommand{\role}[1]{{\itshape\footnotesize\color{gray1}#1}\par\vspace{0.5pt}}
+% \techline{Technology list, shaded full-width box}
+\newcommand{\techline}[1]{%
+  {\setlength{\fboxsep}{2.2pt}%
+  \vspace{1pt}\noindent
+  \colorbox{gray2}{\parbox{\dimexpr\linewidth-2\fboxsep\relax}{\footnotesize\color{gray1}\textbf{Technologien: }#1}}}
+  \vspace{1.5pt}\par
+}
+
+\begin{document}
+
+% ================= HEADER =================
+\begin{tcolorbox}[
+  colback=navyfaint, colframe=navyfaint, boxrule=0pt, arc=3pt,
+  width=\linewidth, left=16pt, right=16pt, top=7pt, bottom=7pt,
+  before skip=0pt, after skip=7pt
+]
+{\fontsize{22}{24}\selectfont\bfseries\textcolor{navy}{Iurii Pigovskyi}}\\[1pt]
+{\itshape\color{gray1}(Yuriy Pigovsky)}\\[5pt]
+{\large\bfseries Java-Scala- und Python-Softwareentwickler, Softwarearchitekt}\\[5pt]
+Dortmund, Deutschland \ \textbar\ \ geb. 11.02.1983 (43 Jahre)\\
+\href{mailto:pigovsky@gmail.com}{pigovsky@gmail.com} \ \textbar\ \ WhatsApp / Mobil: +49\,170\,2906351\\
+Verfügbar für: unbefristete Festanstellung in Dortmund / Hybrid / Remote\\
+Aufenthalts-/Arbeitsstatus: Blaue Karte EU (Blue Card)
+\end{tcolorbox}
+
+% ================= ZUSAMMENFASSUNG =================
+\section*{Zusammenfassung}
+Seit 2004 in der Softwareentwicklung tätig -- insgesamt 22 Jahre Erfahrung. Seit 2015 (11 Jahre) spezialisiert auf Entwurf und Entwicklung verteilter Systeme in Java/Scala und Python:
+\begin{itemize}
+  \item Java + Scala -- 12 Jahre Erfahrung
+  \item Python -- 9 Jahre Erfahrung
+  \item Neben eigener Entwicklung: Koordination der Teamarbeit und Durchführung von Code-Reviews (PRs).
+  \item Erfahrung in wissenschaftlicher Forschung: mathematische Modellierung, numerische Methoden, maschinelles Lernen.
+\end{itemize}
+
+% ================= AUSBILDUNG =================
+\section*{Ausbildung}
+\entryrow{Nationale Universität „Lviv Polytechnic“}{11/2005 -- 10/2008}
+\role{Promotion (PhD) in technischen Wissenschaften}
+\vspace{2pt}
+
+\entryrow{Westukrainische Nationale Universität (ehem. Ternopil Academy of National Economy)}{09/1999 -- 07/2004}
+\role{Master in Wirtschaftskybernetik}
+
+% ================= FÄHIGKEITEN =================
+\section*{Fähigkeiten / Kompetenzen}
+\begin{tabularx}{\linewidth}{@{}>{\bfseries}p{4.4cm}X@{}}
+Programmiersprachen \& Technologien & Scala (Akka HTTP/Pekko, Specs2, Mockito, Play Framework, sbt); Python (FastAPI, Django, Celery); Java, Kotlin (Sockets, Android SDK, JUnit, Gradle); Bash \\[5pt]
+Datenbanken & SQL -- MariaDB, H2, PostgreSQL, SQLite; NoSQL -- Cassandra, Redis; Event-Logging \& Message Queues -- Kafka, RabbitMQ \\[5pt]
+Metriken & OpenTelemetry, Prometheus \\[5pt]
+Betriebssysteme & Linux, Windows \\[5pt]
+Versionsverwaltung & Git (fundierte Kenntnisse) \\[5pt]
+Deployment & Docker, Kubernetes (k8s), GCP, GKE \\
+\end{tabularx}
+
+% ================= BERUFSERFAHRUNG =================
+\section*{Berufserfahrung}
+
+\entryrow{Fachhochschule Dortmund}{07/2024 -- heute}
+\role{Wissenschaftlicher Mitarbeiter, Senior Softwarearchitekt \& Distributed Systems Engineer}
+\begin{itemize}
+  \item \href{https://www.fh-dortmund.de/microsite/smartedgelab/projekte/emulate.php}{Metaprojekt „Emulate“}
+  \item \href{https://facemap-de.xyz/}{facemap-de.xyz} -- soziales Netzwerk
+  \item SeQaM -- Service-Quality-Management-Plattform zur Sicherstellung minimaler Ende-zu-Ende-Latenz
+\end{itemize}
+\techline{Python (FastAPI), OpenTelemetry, ClickHouse DB, Redis, RabbitMQ, KVM, Docker, k8s, Helm, Multiagentenentwicklung}
+
+\entryrow{\href{https://www.qvantel.com}{Qvantel}}{12/2017 -- 06/2024}
+\role{Senior Scala-/Python-Entwickler}
+\begin{itemize}
+  \item BSSAPI -- Business Support Solution für Telekommunikation (Scala, Akka, TDD)
+  \item DBSS -- Digital Business Support Solution für Telekommunikation (Python, Django); zusätzlich PR-Reviews und Koordination des Teams
+  \item Services und Skripte zur Unterstützung des Message Manager
+  \item bssapi-v1-to-v0-adapter -- Microservice zur Konvertierung von BSSAPI-Protokollversionen
+\end{itemize}
+\techline{Scala 2.11/2.12, Akka, Akka HTTP, Akka Stream, Python 3.7, Django, Kafka, RabbitMQ, Cassandra, Redis, MariaDB, Docker, Consul, Marathon, Mesos, TDD}
+
+\entryrow{\href{https://scalhive.com}{ScalHive}}{12/2016 -- 12/2017}
+\role{Scala-Entwickler}
+\begin{itemize}
+  \item CRM -- Automatisierung von Digital-Marketing-Workflows
+  \item GeoFence -- Erfassung von Marketingstatistiken
+\end{itemize}
+\techline{Scala 2.11/2.12, Akka, Akka HTTP, Akka Stream, PostgreSQL}
+
+\entryrow{Ecodery}{06/2015 -- 12/2016}
+\role{Java-Scala-Entwickler}
+\begin{itemize}
+  \item Chativity (Buzzchat) -- Android-App
+  \item El Chatto -- Chatbot
+\end{itemize}
+\techline{Java, Kotlin, Android SDK, JUnit, TDD, Scala, Akka, Akka HTTP}
+
+\entryrow{Spilna Sprava}{06/2014 -- 06/2015}
+\role{Java-Android-Entwickler}
+\begin{itemize}
+  \item Mon Dentist -- Plattform zur Kommunikation zwischen Zahnärzten und Patienten
+\end{itemize}
+\techline{Java, Android SDK, JUnit, TDD}
+
+\entryrow{Wissenschaftliche Arbeit}{09/2004 -- 12/2008}
+\role{Verfassen und Verteidigung der Dissertation sowie wissenschaftlicher Publikationen}
+\begin{itemize}
+  \item \href{https://ena.lpnu.ua/items/c882b7c6-b45d-4b1f-87ca-0a9938085e6c}{„Mathematical models of fuzzy processes in Monod-Iyerusalimskii systems and methods of their identification“}
+\end{itemize}
+
+\entryrow{Freelance}{06/2004 -- 06/2014}
+\role{PHP-Entwickler}
+\begin{itemize}
+  \item CMS mit erweiterten SEO-Funktionen
+\end{itemize}
+\techline{PHP, JavaScript, CodeIgniter}
+
+\entryrow{Westukrainische Nationale Universität}{09/2004 -- 12/2017}
+\role{Dozent (Senior Lecturer) -- Fächer: Betriebssysteme, Java-Technologie}
+
+% ================= ERFOLGE =================
+\section*{Erfolge}
+\begin{itemize}
+  \item Mitwirkung am Entwurf und der Implementierung von Prepaid- und Postpaid-Zahlungssystemen, die aktuell im großflächigen produktiven Einsatz bei mehreren großen Mobilfunkbetreibern in verschiedenen Ländern stehen.
+  \item Integration des Message Manager bei zwei großen Mobilfunkbetreibern inklusive zahlreicher unterstützender Skripte.
+  \item Erfahrung sowohl mit DBSS (Python) als auch mit BSSAPI (Scala) war maßgeblich für die Entwicklung neuer Features hilfreich.
+  \item Implementierung eines k8s-Cluster-Monitors und -Recommenders zur Verbesserung der Servicequalität für geschäftskritische Anwendungen.
+\end{itemize}
+
+% ================= ZERTIFIKATE =================
+\section*{Zertifikate}
+\begin{itemize}
+  \item \href{https://coursera.org/share/2ebc59f06b3331339859133d6571aafa}{Unsupervised Learning, Recommenders, Reinforcement Learning}
+  \item \href{https://coursera.org/share/5bd5fb3081e2dc3503a12073b73c5bee}{Advanced Learning Algorithms}
+  \item \href{https://coursera.org/share/1449f4013aaff33a5da5d8b459521d4d}{Supervised Machine Learning: Regression and Classification}
+  \item \href{https://coursera.org/share/15d40eb8e6f00ecbb3d0141bada2779e}{Big Data Analysis with Scala and Spark}
+\end{itemize}
+
+% ================= SPRACHEN =================
+\section*{Sprachen}
+\begin{tabularx}{\linewidth}{@{}>{\bfseries}p{4.4cm}X@{}}
+Ukrainisch & Muttersprache \\[4pt]
+Englisch & tägliche Arbeitssprache \\[4pt]
+Deutsch & \href{https://results.telc.net/vb?credential=telc-LcFTx7e}{B1 (telc-Zertifikat)} \\[4pt]
+Niederländisch & Grundkenntnisse in Verstehen, Sprechen und Lesen \\
+\end{tabularx}
+
+\end{document}
