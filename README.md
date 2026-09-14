@@ -8,6 +8,10 @@ WhatsApp + GSM: +491702906351
 
 Dortmund, Germany
 
+Open for: Permanent Employment (Unbefristete Festanstellung) in Dortmund / Hybrid / Remote. 
+
+German Work/Residence Status: Blue Card.
+
 
 ## Java-Scala and Python Software Developer, Software Architect
 
@@ -72,7 +76,7 @@ From 2015, the last 11 years, I am specialized in designing and developing distr
 
 #### Version control system
 
-* git
+* git (deep knowledge)
 
 
 #### Deployment
@@ -86,22 +90,21 @@ From 2015, the last 11 years, I am specialized in designing and developing distr
 
 * Fachhochschule Dortmund
   - from July 2024 till now
-  - job title: Scientific coworker, Software architector-developer.
+  - job title: Scientific coworker, Senior Software Architect & Distributed Systems Engineer.
   - MetaProject ["Emulate"](https://www.fh-dortmund.de/microsite/smartedgelab/projekte/emulate.php)
      - Projects:
-       - https://facemap-de.xyz/ --- a new-generation ;) socnet
+       - https://facemap-de.xyz/ --- a social network
        - SeQaM --- a service quality management platform to ensure minimal e2e latency
-       - https://greenshift-registry.online/ --- cool k8s energy-attribution platform; the webpage does not work during german holidays :D
      - Language, technologies: 
         * python (fastapi), 
         * opentelemetry, 
         * clickhouse db, redis, rabbit mq,
         * kvm, Docker, k8s, helm,
-        * Claude code multiagent development
+        * Multiagent development
 
 * Qvantel https://www.qvantel.com
   - from December 2017 till June 2024
-  - job title: Scala-Python developer
+  - job title: Senior Scala-Python developer
   - Projects:
     - BSSAPI --- Business Support Solution for Telecommunications
       - Languages, technologies and libraries: Scala 2.11(12), 
