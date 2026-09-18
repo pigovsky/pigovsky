@@ -49,8 +49,9 @@ From 2015, the last 11 years, I am specialized in designing and developing distr
 * Python
     - FastAPI, Django, Celery
 * Java, Kotlin
-    - sockets, Android SDK, JUnit, Gradle
+    - Spring Boot, Android SDK, JUnit, Gradle, MVN
 * Bash
+
 
 #### DB
 
@@ -93,11 +94,12 @@ From 2015, the last 11 years, I am specialized in designing and developing distr
   - job title: Scientific coworker, Senior Software Architect & Distributed Systems Engineer.
   - MetaProject ["Emulate"](https://www.fh-dortmund.de/microsite/smartedgelab/projekte/emulate.php)
      - Projects:
+       - consulting Telecommunication Operators, developing features and fixes for their Business Support Solutions
        - https://facemap-de.xyz/ --- a social network
        - SeQaM --- a service quality management platform to ensure minimal e2e latency
      - Language, technologies: 
-        * python (fastapi), 
-        * opentelemetry, 
+        * python (fastapi), scala (pekko), java (Spring Boot)
+        * opentelemetry, Prometheus,
         * clickhouse db, redis, rabbit mq,
         * kvm, Docker, k8s, helm,
         * Multiagent development
